@@ -1,6 +1,6 @@
 export { DropzoneComponent } from './lib/dropzone.component';
 export { DropzoneDirective } from './lib/dropzone.directive';
-
+#DI-295 testing
 export {
   DROPZONE_CONFIG,
 
